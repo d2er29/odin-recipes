@@ -13,6 +13,10 @@ a {
   color: rgb(44, 122, 122);
   background-color: aliceblue;
 }
+a {
+  line-height: 2.5;
+  color: blueviolet;
+}
 ul,
 ol {
   border-style: double;
