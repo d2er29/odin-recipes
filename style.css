@@ -32,3 +32,10 @@ h3,
 h4 {
   color: purple;
 }
+img {
+  height: 600px;
+  width: 800px;
+  object-fit: cover;
+  border-style: solid;
+  border-color: black;
+}
