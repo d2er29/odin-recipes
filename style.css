@@ -13,6 +13,10 @@ a {
   color: rgb(44, 122, 122);
   background-color: aliceblue;
 }
+ul,
+ol {
+  border-style: double;
+}
 .desc {
   font-style: italic;
   font-size: 20px;
