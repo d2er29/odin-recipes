@@ -21,13 +21,17 @@ a {
 }
 ul,
 ol {
-  border-style: double;
+  border: 10px double greenyellow;
+  padding: 20px 20px 20px 40px;
+  margin: 10px 50px 10px 0px;
 }
 .desc {
   font-style: italic;
   font-size: 20px;
   color: goldenrod;
   background-color: gray;
+  padding: 5px 10px;
+  border: 3px solid white;
 }
 h2,
 h3,
@@ -38,6 +42,5 @@ img {
   height: 600px;
   width: 800px;
   object-fit: cover;
-  border-style: solid;
-  border-color: black;
+  border: 5px solid black;
 }
