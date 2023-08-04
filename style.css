@@ -1,4 +1,49 @@
 * {
+  font-family: Arial, Verdana, sans-serif;
+  background-color: antiquewhite;
+  height: auto;
+  width: 1000px;
+}
+h1 {
+  color: brown;
+}
+ul,
+ol,
+li,
+a {
+  font-size: 18px;
+  color: rgb(44, 122, 122);
+  background-color: aliceblue;
+}
+a {
+  line-height: 2.5;
+  color: blueviolet;
+}
+ul,
+ol {
+  border: 10px double greenyellow;
+  padding: 20px 20px 20px 40px;
+  margin: 10px 50px 10px 0px;
+}
+.desc {
+  font-style: italic;
+  font-size: 20px;
+  color: goldenrod;
+  background-color: gray;
+  padding: 5px 10px;
+  border: 3px solid white;
+}
+h2,
+h3,
+h4 {
+  color: purple;
+}
+img {
+  height: 600px;
+  width: 800px;
+  object-fit: cover;
+  border: 5px solid black;
+}* {
 
 }
 .menu {

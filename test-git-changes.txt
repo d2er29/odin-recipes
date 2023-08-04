@@ -1,0 +1,7 @@
+This page is to see how working on multiple computers works for updating local git repos.
+This page was created on laptop.
+Need to test and see how to get the update to pull to local repo on desktop.
+Added this line after a line 5 was added to this doc from desktop. This line added via laptop before repo was pulled down from github.
+This line is added via laptop. same as previous line 4 here.
+
+These lines were added on desktop to see how laptop updates.
