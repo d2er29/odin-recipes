@@ -21,17 +21,13 @@ a {
 }
 ul,
 ol {
-  border: 10px double greenyellow;
-  padding: 20px 20px 20px 40px;
-  margin: 10px 50px 10px 0px;
+  border-style: double;
 }
 .desc {
   font-style: italic;
   font-size: 20px;
   color: goldenrod;
   background-color: gray;
-  padding: 5px 10px;
-  border: 3px solid white;
 }
 h2,
 h3,
@@ -43,24 +39,4 @@ img {
   width: 800px;
   object-fit: cover;
   border: 5px solid black;
-}* {
-
-}
-.menu {
-  width: 400px;
-  text-align: center;
-}
-.list-1 {
-  text-align: left;
-  margin: 5px 0 0 100px;
-  padding: 10px;
-}
-li {
-  border: 1px solid black;
-  padding: 5px;
-  margin-bottom: 10px;
-  margin-right: 100px;
-}
-a {
-  padding: 5px;
 }
