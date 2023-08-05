@@ -2,41 +2,72 @@
   font-family: Arial, Verdana, sans-serif;
   background-color: antiquewhite;
   height: auto;
-  width: 1000px;
+  width: 800px;
+  text-align: center;
 }
 h1 {
   color: brown;
 }
+.o-rec {
+  width: 400px;
+  text-align: center;
+  margin-left: 50px;
+}
 ul,
 ol,
 li,
-a {
+ a {
   font-size: 18px;
   color: rgb(44, 122, 122);
   background-color: aliceblue;
+  width: 400px;
 }
-a {
+li a {
   line-height: 2.5;
   color: blueviolet;
+  display: block;
+  text-align: left;
+  margin-right: 50px;
+
 }
 ul,
 ol {
+  width: 415px;
   border-style: double;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 .desc {
+  border: 3px solid rebeccapurple;
+  width: 794px;
   font-style: italic;
   font-size: 20px;
   color: goldenrod;
   background-color: gray;
+  padding: 5px;
 }
 h2,
 h3,
 h4 {
   color: purple;
+  text-align: left;
+  padding-left: 35px;
 }
 img {
   height: 600px;
   width: 800px;
   object-fit: cover;
   border: 5px solid black;
+}
+.list-1 {
+  display: block;
+  text-align: left;
+  padding-left: 25px;
+  padding-right: 10px;
+  margin-left: 50px;
+}
+li {
+  padding: 5px 10px 5px 0;
+  text-align: left;
+  margin-left: -5px;
 }
